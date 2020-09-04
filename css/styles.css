@@ -1,0 +1,19 @@
+body {
+  background-color: #fcf8f3;
+  color: #698474;
+  font-family: arial;
+  padding-left: 10px;
+}
+img{
+  border-color: 1px solid black;
+  border-radius: 20px;
+}
+a {
+  font-size: 20px;
+}
+
+hr {
+  width: 50px;
+  border-style: none;
+  border-top: 5px dotted #698474;
+}
